@@ -25,7 +25,7 @@ This repository contains a simple Flask web application for managing files. It e
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/flask-file-manager.git
+   git clone https://github.com/sagarnanera/python_file_server.git
    cd python_file_server
    ```
 
