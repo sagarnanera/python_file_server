@@ -1,5 +1,4 @@
-```markdown
-# Flask File Manager
+# Python File Server
 
 ## Overview
 
@@ -20,14 +19,14 @@ This repository contains a simple Flask web application for managing files. It e
   ```bash
   pip install Flask
   ```
-
+  
 ## Getting Started
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/flask-file-manager.git
-   cd flask-file-manager
+   git clone https://github.com/sagarnanera/python_file_server.git
+   cd python_file_server
    ```
 
 2. **Run the Flask application:**
@@ -64,4 +63,3 @@ This repository contains a simple Flask web application for managing files. It e
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
